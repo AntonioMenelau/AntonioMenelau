@@ -7,7 +7,7 @@
 - 📫 Como chegar até mim: Moro em Mococa/SP no Brasil
 - ⚡ Curiosidade: Amo foguetes 🚀, sou entusiasta em machine Learning e desenvolvimento de aplicações
 
-  ##
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioMenelau&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioMenelau&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
