@@ -20,6 +20,7 @@
   <img align="center" alt="Toni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Toni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Toni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Toni-pic" height="150" style="border-radius:50px;" src="https://github.com/AntonioMenelau/AntonioMenelau/blob/main/ToniDesenho.png">
 </div>
   
   ##
